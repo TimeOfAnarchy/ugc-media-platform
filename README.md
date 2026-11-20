@@ -6,9 +6,9 @@ I have been building it alone since August 2025: backend, frontend, ML pipeline 
 
 ![Work page: tags, palette, comments and colour search](media/preview.gif)
 
-https://github.com/user-attachments/assets/ec838414-07c1-41be-9728-d5945f039f65 All images in the demo are generated test data uploaded through the real upload API.
+https://github.com/user-attachments/assets/ec838414-07c1-41be-9728-d5945f039f65
 
-
+All images in the demo are generated test data uploaded through the real upload API.
 
 
 
