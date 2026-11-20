@@ -1,0 +1,4 @@
+# Recording scripts, plans, raw takes and credentials stay local.
+recording/
+*.webm
+.env*
